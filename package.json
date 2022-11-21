@@ -1,0 +1,22 @@
+{
+  "name": "test_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azzi77/test_calculator.git"
+  },
+  "author": "Regina Azzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azzi77/test_calculator/issues"
+  },
+  "homepage": "https://github.com/Azzi77/test_calculator#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
